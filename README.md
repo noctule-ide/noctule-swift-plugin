@@ -1,15 +1,11 @@
-**Cross-platform Swift language support for JetBrains IDEs 2024.3 and later.**
+## Cross-Platform Swift Development with your JetBrains IDE
 
-*This plugin is under active development and in an early state!*
-<br>
-<br>
+**Noctule brings cross-platform Swift language support to your JetBrains IDE and Android Studio.**
 
-***Important**: This plugin is a freemium plugin. For now, all features are still free to use. Support the development by purchasing a license for USD 1 per month.*
-<br>
-
-At this time, all features are free to use until the plugin is more stable.
-Noctule will be offered as a freemium or paid plugin in the future.
-Please note that the final price will be higher when the product is stable.
+> [!IMPORTANT]
+> This plugin is a freemium plugin. For now, all features are still free to use. Support the development by purchasing a license for USD 1 per month.
+> At this time, all features are free to use until the plugin is more stable.
+> Noctule will be offered as a freemium or paid plugin in the future.>Please note that the final price will be higher when the product is stable.
 
 <a target="_blank" href="https://lists.j-a.dev/subscription?f=fUWUAxYS1O09VBQtL0S0YJrJHotnoE7f35nm892D9KiINm3fsOPw9MTMtRSzN2PDzK">
 Join the Noctule newsletter</a> to receive updates about the plugin and its development.
