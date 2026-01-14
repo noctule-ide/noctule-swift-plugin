@@ -19,7 +19,7 @@ Join the Noctule newsletter</a> to receive updates about the plugin and its deve
 **Available features**:
 
 - Support for the language specification of Swift 6.2
-- Native code formatter
+- Native code formatter and support for "format on save"
 - Code completion
 - Find usages, go to declaration, rename refactoring
 - Code error highlighting with quick fixes
